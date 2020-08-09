@@ -12,7 +12,7 @@
 ### 2020 Goals and Projects
 
 * [x] Survive International Pandemic (in progress)
-* [ ] Graduate
+* [ ] Keep On Track to Graduate
 * [ ] Z Compiler in Rust
 * [ ] Contribute to Open Source Project
 
