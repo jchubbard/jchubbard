@@ -1,5 +1,7 @@
+<!-- Name -->
 ## Jamison Hubbard
 
+<!-- Who Am I section -->
 ### Who Am I?
 
 * :book: CS Student
@@ -8,7 +10,7 @@
 * :video_game: Avid Halo fan
 * :computer: Will code for money :joy:
 
-
+<!-- 2020 Goals and Project Section -->
 ### 2020 Goals and Projects
 
 * [x] Survive International Pandemic (in progress)
@@ -16,7 +18,7 @@
 * [ ] Z Compiler in Rust
 * [ ] Contribute to Open Source Project
 
-
+<!-- Languages and Tools section -->
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,6 +36,8 @@
 <br />
 <br />
 
+<!-- GitHub Stats Card github.com/anuraghazra/github-readme-stats -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jchubbard&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- GitHub Languages Card github.com/anuraghazra/github-readme-stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchubbard)](https://github.com/anuraghazra/github-readme-stats)
